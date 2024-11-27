@@ -584,7 +584,7 @@ Faz com que o jogador possa remover animais ou vilagers de dentro dos barcos sem
 Melhora a colocação de blocos como escadas e meio blocos.
 * - Dependencia obrigatória: [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 
-* [Boids](https://modrinth.com/mod/boids) (talvez)
+* [Boids](https://modrinth.com/mod/boids) (Talvez remover)
 --
 Faz com que os peixes se moviventem de maneria mais realista.
 
@@ -669,7 +669,7 @@ Adicona novas receitas, platações e blocos relacionados a deração e cozinha.
 * - - [Cultural Delights](https://modrinth.com/mod/cultural-delights-fabric) - Adiciona receitas relacionadas ao redor do globo.
 * - - [Brewin' And Chewin'](https://modrinth.com/mod/brewin-and-chewin-fabric) - Adiciona receitas relacionadas a criação de cervejas e queijos.
 
-* [Connectible Chains](https://modrinth.com/mod/connectiblechains) (talvez)
+* [Connectible Chains](https://modrinth.com/mod/connectiblechains) (Talvez remover)
 --
 Faz com que correntes possam ser pressas em cercas para decoração.
 
