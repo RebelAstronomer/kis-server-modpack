@@ -446,7 +446,6 @@ Melhora drasticamente o desempenho do jogo.
 * - Mods que precisam do Sodium:
 * - - [Indium](https://modrinth.com/mod/indium)
 * - - [Iris Shaders](https://modrinth.com/mod/iris)
-* - - 
 
 * [Indium](https://modrinth.com/mod/indium)
 
@@ -528,8 +527,6 @@ Adiciona a possibilidade do jogador dar zoom.
 
 Sempre que tirar um print ele sempre ira ser salvo no seu CTRL+C automaticamente.
 
--
-
 # Server
 
 ## Visual
@@ -560,7 +557,7 @@ Mostra as receitas para todos os items dentro do servidor.
 * - - [EMI Enchanting](https://modrinth.com/mod/emi-enchanting) (Client) - Faz com que seja possível ver informações sobre encantamentos.
 * - - [EMI Loot](https://modrinth.com/mod/emi-loot) (Server) - Mostra informações sobre drop de mobs.
 * - - [EMI Trades](https://modrinth.com/mod/emitrades) (Client) - Mostra informações sobre as trocas com os villagers.
-* - - [EMIffect](https://modrinth.com/mod/emiffect) (Client) - Mostra informações sobre boções.
+* - - [EMIffect](https://modrinth.com/mod/emiffect) (Client) - Mostra informações sobre poções.
 * - - [EMI Addon: Extra Mod Integrations](https://modrinth.com/mod/extra-mod-integrations) (Client) - Adiciona melhor integrações com mods.
 * - - [Just Enough Breeding](https://modrinth.com/mod/extra-mod-integrations) (Client) - Mostra informações sobre a reprodução dos mobs.
 
@@ -595,7 +592,6 @@ Adiciona instrumentos que podem ser craftados e usados. As musicas são em MIDI 
 * [Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone)
 
 Faz com que as folhas de uma árvore desapareçam ao cortar a árvore.
-Adiciona novos blocos para construção.
 * - Dependencia obrigatória: [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 * - Dependencia obrigatória: [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
 
@@ -604,9 +600,6 @@ Adiciona novos blocos para construção.
 Faz com que as aranhas fiquem viradas para o bloco que estão escalando, as deixado mais realistas.
 
 ## Gameplay
-
-* [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)- Talvez ➖
-
 
 * [FallingTree](https://modrinth.com/mod/fallingtree)
 
