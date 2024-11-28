@@ -63,6 +63,7 @@ Link para a [lista de mods](mods.md)
 | ❌ | Será removido |
 | 🧪 | Em teste |
 | ⚖ | Precisa de aprovação |
+<br>
 
 - ⚖ [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)  
   Adiciona Voice Chat ao jogo.
