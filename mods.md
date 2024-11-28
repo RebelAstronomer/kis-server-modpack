@@ -400,6 +400,10 @@ Mostra informações adicionais de blocos/items no inventário. Schulcker agora 
 
 Mostra o mapa na mão mesmo em terceira pessoa.
 
+* [No Report Button](https://modrinth.com/mod/nrb)
+
+Remove o botão de report do menu do jogo.
+
 ## Animações
 
 * [Eating Animation](https://modrinth.com/mod/eating-animation)
@@ -618,14 +622,6 @@ Permite com que o jogador carregue nas mãos baús e animais, com tudo, perde ve
 
 A plantações crescem mais rápido quando chove.
 
-* [Emotecraft](https://modrinth.com/mod/emotecraft)
-
-Adiciona um sistema de emotes ao jogo. Novos emotes podem ser baixados no github do criador [Github]().
-
-* [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)
-
-Adiciona novas platações, receitas de comidas, blocos e items relacionados a cozinha e fazenda.
-
 * [Gliders](https://modrinth.com/mod/gliders)
 
 Adiciona asas-deltas ao jogo.
@@ -634,7 +630,7 @@ Adiciona asas-deltas ao jogo.
 
 Faz com que os cavalos não afundem mais quando estiver sobre a água.
 
-* [RightClickHarvest](https://modrinth.com/mod/3.2.3+1.19.x-1.20.1-fabric)
+* [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
 
 Sempre que quebrar alguma plantação ela sera replantada automaticamente. Se usar uma enxada pode colher em área.
 
