@@ -14,7 +14,8 @@ A ideia é a construção de uma comunidade/vila com os participantes, onde cada
 ### Informações técnicas
 Estado atual do modpack: Em testes 🧪  
 Versão do Minecraft: 1.20.1  
-Modloader: Fabric (0.16.5)
+Modloader: Fabric (0.16.5)  
+Problemas: [Link](https://github.com/RebelAstronomer/kis-server-modpack/blob/main/problemas.md)  
 
 ## [Mods](https://github.com/RebelAstronomer/kis-server-modpack/blob/main/mods.md)
 Os mods vêm em diversas categorias diferentes e podem variar de propósito e complexidade. Por ser um modpack mais Vanilla, muitos dos mods não são de grande complexidade e servem como melhorias para mecânicas já estabelecidas dentro do jogo.
