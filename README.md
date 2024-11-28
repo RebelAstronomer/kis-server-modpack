@@ -12,10 +12,26 @@ A ideia é a construção de uma comunidade/vila com os participantes, onde cada
 - ???
 
 ### Informações técnicas
-Estado atual do modpack: Em testes 🧪  
-Versão do Minecraft: 1.20.1  
-Modloader: Fabric (0.16.5)  
-Problemas: [Link](problemas.md)  
+<table>
+    <tr>
+        <td>Estado atual do modpack</td>
+        <td>Em testes 🧪</td>
+    </tr>
+    <tr>
+        <td>Versão do Minecraft</td>
+        <td>1.20.1</td>
+    </tr>
+    <tr>
+        <td>Modloader</td>
+        <td>Fabric (0.16.5)</td>
+    </tr>
+    <tr>
+        <td>Problemas</td>
+        <td>
+            <a href="problemas.md">Link</a>
+        </td>
+    </tr>
+</table>
 
 ## Imagens
 
