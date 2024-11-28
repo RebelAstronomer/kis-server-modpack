@@ -48,4 +48,9 @@ Mods que podem conflitar:
 * [Fresh Player Animations](https://modrinth.com/resourcepack/fresh-player-animations)
 * Qualquer mod ou texture pack que modifique as animações do jogador.  
 
+## Mod Gliders é possível duplicar os gliders 👀
+Se o jogador colocar um glider no slot de capa, peitoral ou chave, após clicar novamente no slot o glider sera duplicado.
+
+### Causador
+Erro de configuração
 
