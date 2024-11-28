@@ -413,9 +413,15 @@ Adiciona animações para as comidas ao come-lás.
 
 Adiciona novas animações para algumas ações como: segurar um mapa, comer, usar o barco e mais.
 
-* [Sitting+](https://modrinth.com/mod/sitting+)
+* [playerAnimator](https://modrinth.com/mod/playeranimator)
 
-Adiciona animações de sentar com várias variações.
+Mod necessário para outros mods que alterão as animações do jogador.
+* - Dependência obrigatoria: [bendy-lib](https://modrinth.com/mod/bendy-lib)
+
+* [Serious Player Animations](https://modrinth.com/mod/serious-player-animations)
+
+Adiciona mais animções para o modelo do jogador.
+* - Dependência obrigatoria: [playerAnimator](https://modrinth.com/mod/playeranimator)
 
 ## Performance
 
