@@ -3,10 +3,12 @@ Lista com todos o problemas conhecidos até o momento dentro do modpack.
 Caso ache algum problema dentro do modpack pode me chamar no discord ;)
 
 ### Níveis dos problemas
-👀 Apenas visual, não atrapalha o jogo.  
-➖ Pode atrapalhar o desempenho.  
-⚠ Pode causar crashs ou problemas ao server/client.  
-🚫 Crash garantido.  
+| Icone | Significado |
+| :---: | :---------: |
+| 👀 | Apenas visual, não atrapalha o jogo |
+| ➖ | Pode atrapalhar o desempenho |
+| ⚠ | Pode causar crashs ou problemas ao server/client |
+| 🚫 | Crash garantido |
 
 ## Ghosting 👀
 Algumas vezes o render pode apresentar falhar e blocos não carregarem rápidamente.

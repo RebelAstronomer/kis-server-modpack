@@ -23,10 +23,12 @@ Os mods vêm em diversas categorias diferentes e podem variar de propósito e co
 Link para a [lista de mods](https://github.com/RebelAstronomer/kis-server-modpack/blob/main/mods.md)
 
 ### Mods em pauta
-✅ Será adicionado  
-❌ Será removido  
-🧪 Em teste  
-⚖ Precisa de aprovação  
+| Icone | Significado |
+| :---: | :---------: |
+| ✅ | Será adicionado |
+| ❌ | Será removido |
+| 🧪 | Em teste |
+| ⚖ | Precisa de aprovação |
 
 - ⚖ [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)  
   Adiciona Voice Chat ao jogo.
