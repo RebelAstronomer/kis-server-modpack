@@ -77,7 +77,6 @@ Bibliotecas são obrigatórias dependendo do mod que você deseja instalar. Aqui
 * - Mods que usam está biblioteca:
 * - - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
 * - - [Easy Shulker Boxes](#Easy-Shulker-Boxes)
-* - - [Genshin Instruments](#genshin-instruments)
 * - - [Additional Placements](#additional-placements)
 
 * [JamLib](https://modrinth.com/mod/jamlib)
@@ -752,11 +751,6 @@ Adiciona mochilas.
 * [Basic Weapons](https://modrinth.com/mod/basic-weapons)
  
 Adiciona novo tipos de armas no estilo medival com mecânicas diferentes.
-
-* [Genshin Instruments](https://modrinth.com/mod/genshin-instruments)
-
-Adicionas os instrumentos do Genshin Impact ao minecraft. Jogadores podem tocar músicas utilizando os seus teclados.
-* - Dependência obrigatória: [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 
 * [Supplementaries](https://modrinth.com/mod/supplementaries)
 
