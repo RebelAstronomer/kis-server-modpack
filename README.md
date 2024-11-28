@@ -35,8 +35,6 @@ Problemas: [Link](problemas.md)
 ![Gameplay](images/2024-11-27_23.50.28.png?raw=true)
 > Prints tirados com o shader Photon v1.0a
 
-<br>
-
 ## [Mods](mods.md)
 Os mods vêm em diversas categorias diferentes e podem variar de propósito e complexidade. Por ser um modpack mais Vanilla, muitos dos mods não são de grande complexidade e servem como melhorias para mecânicas já estabelecidas dentro do jogo.
 
