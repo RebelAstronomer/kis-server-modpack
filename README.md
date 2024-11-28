@@ -23,7 +23,7 @@ A ideia é a construção de uma comunidade/vila com os participantes, onde cada
     </tr>
     <tr>
         <td>Modloader</td>
-        <td>Fabric (0.16.5)</td>
+        <td>Fabric (0.16.9)</td>
     </tr>
     <tr>
         <td>Problemas</td>
