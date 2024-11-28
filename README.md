@@ -65,20 +65,20 @@ Link para a [lista de mods](mods.md)
 | ⚖ | Precisa de aprovação |
 <br>
 
-- ⚖ [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)  
+- ❌ [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)  
   Adiciona Voice Chat ao jogo.
 
-- ⚖ [Create](https://modrinth.com/mod/create-fabric)  
+- ❌ [Create](https://modrinth.com/mod/create-fabric)  
   Mod de tecnologia com estilo Steampunk, focado na automação.
 
-- ⚖ [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves)  
+- ✅ [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves)  
   Adiciona peixes baseados no jogo *Sea of Thieves*, além de novas estruturas para os oceanos.
 
-- ⚖ [Snow! Real Magic! ⛄](https://modrinth.com/mod/snow-real-magic)  
+- ✅ [Snow! Real Magic! ⛄](https://modrinth.com/mod/snow-real-magic)  
   Adiciona novas mecânicas para a neve, como criar bolas de neve ao clicar na neve. Também permite que camadas de neve sobre cercas e grama as deixem com um aspecto nevado.
 
 - ⚖ [Mythic Charms](https://modrinth.com/mod/mythic-charms)  
   Adiciona amuletos mágicos que podem ser craftados usando uma mesa específica do mod. Cada amuleto adiciona um efeito diferente ao usuário, mas nada muito roubado.
 
-- ⚖ [Alloy Forgery](https://modrinth.com/mod/alloy-forgery)  
+- ✅ [Alloy Forgery](https://modrinth.com/mod/alloy-forgery)  
   Adiciona um forno de fundição realista que pode ser construído com vários blocos. Os minérios derretidos nesse forno podem render mais.
