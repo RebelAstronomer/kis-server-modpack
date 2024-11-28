@@ -19,12 +19,22 @@ Problemas: [Link](problemas.md)
 
 ## Imagens
 
-![Gameplay](https://github.com/RebelAstronomer/kis-server-modpack/blob/main/images/2024-11-11_10.12.30.png?raw=true)
+![Gameplay](images/2024-11-11_10.12.30.png?raw=true)
+![Gameplay](images/2024-11-12_00.42.26.png?raw=true)
+> Prints tirados com shader Complementary Reimagined r5.2.2
 
-## [Mods](https://github.com/RebelAstronomer/kis-server-modpack/blob/main/mods.md)
+![Gameplay](images/2024-11-16_02.29.02.png?raw=true)
+![Gameplay](images/2024-11-17_11.09.19.png?raw=true)
+> Prints tirados com o shader BSL Original v8.3
+
+![Gameplay](images/2024-11-27_23.50.00.png?raw=true)
+![Gameplay](images/2024-11-27_23.50.28.png?raw=true)
+> Prints tirados com o shader Photon v1.0a
+
+## [Mods](mods.md)
 Os mods vêm em diversas categorias diferentes e podem variar de propósito e complexidade. Por ser um modpack mais Vanilla, muitos dos mods não são de grande complexidade e servem como melhorias para mecânicas já estabelecidas dentro do jogo.
 
-Link para a [lista de mods](https://github.com/RebelAstronomer/kis-server-modpack/blob/main/mods.md)
+Link para a [lista de mods](mods.md)
 
 ### Mods em pauta
 | Icone | Significado |
