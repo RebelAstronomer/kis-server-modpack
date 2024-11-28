@@ -23,13 +23,19 @@ Problemas: [Link](problemas.md)
 ![Gameplay](images/2024-11-12_00.42.26.png?raw=true)
 > Prints tirados com shader Complementary Reimagined r5.2.2
 
+<br>
+
 ![Gameplay](images/2024-11-16_02.29.02.png?raw=true)
 ![Gameplay](images/2024-11-17_11.09.19.png?raw=true)
 > Prints tirados com o shader BSL Original v8.3
 
+<br>
+
 ![Gameplay](images/2024-11-27_23.50.00.png?raw=true)
 ![Gameplay](images/2024-11-27_23.50.28.png?raw=true)
 > Prints tirados com o shader Photon v1.0a
+
+<br>
 
 ## [Mods](mods.md)
 Os mods vêm em diversas categorias diferentes e podem variar de propósito e complexidade. Por ser um modpack mais Vanilla, muitos dos mods não são de grande complexidade e servem como melhorias para mecânicas já estabelecidas dentro do jogo.
