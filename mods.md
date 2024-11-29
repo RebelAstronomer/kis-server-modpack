@@ -638,6 +638,7 @@ Faz com que os cavalos não afundem mais quando estiver sobre a água.
 * [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
 
 Sempre que quebrar alguma plantação ela sera replantada automaticamente. Se usar uma enxada pode colher em área.
+* - Dependencia obrigatória: [JamLib](https://modrinth.com/mod/jamlib)
 
 * [Simple Hats](https://modrinth.com/mod/simple-hats)
 
