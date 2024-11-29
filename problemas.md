@@ -18,7 +18,7 @@ Provavelmente algum mod ligador ao culling the blocos ou conflito de render entr
 
 ### Imagens
 
-![imagem ghosting](images/bugs/ghosting_(1).png?raw=true)
+![imagem ghosting](images/bugs/ghosting%20(1).png?raw=true)
 
 ![imagem ghosting](images/bugs/ghosting.png?raw=true)
 
