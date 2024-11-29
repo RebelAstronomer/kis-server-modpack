@@ -140,12 +140,13 @@ Bibliotecas são obrigatórias dependendo do mod que você deseja instalar. Aqui
 * [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 
 * - Mods que usam está biblioteca:
-* - - [???](#)
+* - - [Better Archeology](#better-archeology)
 
 * [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 
 * - Mods que usam está biblioteca:
 * - - Todos os mods do YUNG's
+* - - [Better Archeology](#better-archeology)
 
 # Client
 
@@ -683,6 +684,12 @@ Muda a forma como se chaga ao Fim, agora tem 12 olhos de Enderman diferentes esp
 * [Tide](https://modrinth.com/mod/tide)
 
 Adiciona novoas peixes ao jogo, assim como novas mecânicas de pesca como o mini-game do Stardew Valley.
+
+* [Better Archeology](https://modrinth.com/mod/better-archeology)
+
+Melhora a mecânica de arqueológia do Minecraft.
+* - Dependencia obrigatória: [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib)
+* - Dependencia obrigatória: [YUNG's API](https://modrinth.com/mod/yungs-api)
 
 ## Geração de mundo
 
