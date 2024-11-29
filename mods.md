@@ -576,7 +576,7 @@ Mostra as receitas para todos os items dentro do servidor.
 
 Se uma certa portentagem de jogadores estiverem dormingo o servidor passara a noite.
 
-* [Armor Stand Poses](https://modrinth.com/mod/armor-stand-poses)
+* [Armor Stand Poses](https://modrinth.com/mod/armor-stand-poses) (Não funciona no servidor)
 
 Adiciona poses aos Suportes de Armadura, assim como no Bedrock.
 
@@ -585,7 +585,7 @@ Adiciona poses aos Suportes de Armadura, assim como no Bedrock.
 Faz com que o jogador possa remover animais ou vilagers de dentro dos barcos sem precisar quebrar o barco.
 * - Dependencia obrigatória: [Collective](https://modrinth.com/mod/collective)
 
-* [Additional Placements](https://modrinth.com/mod/additional-placements-fabric)
+* [Additional Placements](https://modrinth.com/mod/additional-placements-fabric) (Não funciona no servidor)
 
 Melhora a colocação de blocos como escadas e meio blocos.
 * - Dependencia obrigatória: [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
