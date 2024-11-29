@@ -568,7 +568,7 @@ Mostra as receitas para todos os items dentro do servidor.
 * - - [EMI Trades](https://modrinth.com/mod/emitrades) (Client) - Mostra informações sobre as trocas com os villagers.
 * - - [EMIffect](https://modrinth.com/mod/emiffect) (Client) - Mostra informações sobre poções.
 * - - [EMI Addon: Extra Mod Integrations](https://modrinth.com/mod/extra-mod-integrations) (Client) - Adiciona melhor integrações com mods.
-* - - [Just Enough Breeding](https://modrinth.com/mod/extra-mod-integrations) (Client) - Mostra informações sobre a reprodução dos mobs.
+* - - [Just Enough Breeding](https://modrinth.com/mod/justenoughbreeding) (Client) - Mostra informações sobre a reprodução dos mobs.
 
 ## Outros
 
