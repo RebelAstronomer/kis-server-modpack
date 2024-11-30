@@ -18,9 +18,9 @@ Provavelmente algum mod ligador ao culling the blocos ou conflito de render entr
 
 ### Imagens
 
-![imagem ghosting](https://github.com/RebelAstronomer/kis-server-modpack/blob/main/images/ghosting%20(1).png?raw=true)
+![imagem ghosting](images/bugs/ghosting_(1).png?raw=true)
 
-![imagem ghosting](https://github.com/RebelAstronomer/kis-server-modpack/blob/main/images/ghosting.png?raw=true)
+![imagem ghosting](images/bugs/ghosting.png?raw=true)
 
 
 
@@ -44,5 +44,35 @@ Provavelmente problemas de compatibilidade entre Texture Packs.
 Se o jogador colocar um glider no slot de capa, peitoral ou chave, após clicar novamente no slot o glider sera duplicado.
 
 ### Causador
-Erro de configuração
+Erro de configuração.
 
+
+
+## Bug com a cama 👀
+A cama pode aparecer com a sua textura incorreta.
+
+### Imagens
+
+![imagem bug da cama](images/bugs/bug_bed.png?raw=true)
+
+### Causador
+Erro com texture packs.
+
+
+
+## Conflito de receitas com Travelers Backpack e Handcraft ➖
+A receita para a cama do Travelers Backpack está conflitando com o tecido do Handcraft.
+
+### Imagens
+
+![cama do Travelers Backpack](images/bugs/recipe_bug_1.png?raw=true)
+
+![tecido do Handcraft](images/bugs/recipe_bug.png?raw=true)
+
+### Causador
+Conflito de receitas. Para solucionar é necessário algum mod que resolva este conflito como: [Polymorph](https://modrinth.com/mod/polymorph).
+
+
+
+## Drop dos chapéis está alto ➖
+O drop dos chapéis do Simple Hats está alto de mais.
