@@ -646,7 +646,7 @@ Sempre que quebrar alguma plantação ela sera replantada automaticamente. Se us
 Adiciona chapéis cosméticos que podem aparecer dentro de baús ou do drop de mobs.
 * - Dependencia obrigatória: [Trinkets](https://modrinth.com/mod/trinkets)
 
-* [Animal Feeding Trough](https://modrinth.com/mod/animal_feeding_trough)
+* [Animal Feeding Trough](https://modrinth.com/mod/animal_feeding_trough) (talvez remover)
 
 Mobs se alimentão automaticamente usando este bloco.
 * - Dependencia obrigatória: [Architectury API](https://modrinth.com/mod/architectury-api)
