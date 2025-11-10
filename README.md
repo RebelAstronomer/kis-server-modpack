@@ -1,3 +1,3 @@
-# kIS Server Minecraft 2025
+# KIS Server Minecraft 2025
 
 Em construção...
