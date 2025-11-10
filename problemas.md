@@ -37,7 +37,7 @@ Caso ache algum problema dentro do modpack pode me chamar no discord ;)
 **Mídia de Suporte (Screenshots ou Vídeos):**
 [Link para Imagem/Vídeo]
 
-> [!NOTE]: Todos as mídias ficão na pasta `images`
+> [!NOTE] Todos as mídias ficão na pasta `images`
 
 ## Exmeplo
 
